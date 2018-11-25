@@ -1,1 +1,9 @@
-/home/careyd/.vimrc
+set number
+set smartindent
+set tabstop=4
+set shiftwidth=0
+set autoindent
+set expandtab
+set t_Co=256
+syntax on
+set showmatch 
