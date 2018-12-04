@@ -115,3 +115,10 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# PS1
+export PS1="\[\e[34m\]\u\[\e[m\]@\h/\[\e[93m\]\W\[\e[m\]:\[\e[93m\] \[\e[m\]"
+
+# Source the alias
+source ~/.alias
+
