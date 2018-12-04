@@ -7,3 +7,4 @@ set expandtab
 set t_Co=256
 syntax on
 set showmatch 
+set hlsearch
