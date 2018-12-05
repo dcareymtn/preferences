@@ -1,0 +1,2 @@
+alias sc='gnome-screenshot -w'
+alias ll='ls -alth'
