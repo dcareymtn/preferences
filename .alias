@@ -1,2 +1,3 @@
-alias sc='gnome-screenshot -w'
+alias sc='gnome-screenshot -i'
 alias ll='ls -alth'
+alias mountgoogle='google-drive-ocamlfuse ~/googledrive'
